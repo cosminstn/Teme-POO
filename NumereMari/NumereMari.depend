@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1521401896 source:c:\users\cosmin\desktop\numeremari\main.cpp
+	<iostream>
+	"BigInt.h"
+
+1521403590 c:\users\cosmin\desktop\numeremari\include\bigint.h
+	<string>
+	<iostream>
+
+1521404337 source:c:\users\cosmin\desktop\numeremari\src\bigint.cpp
+	"BigInt.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
